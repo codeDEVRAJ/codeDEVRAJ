@@ -7,15 +7,21 @@
   🖤 <b>Welcome to my world… scroll carefully.</b>
 </p>
 
----
-
 ### 👨‍💻 About Me
 
 - 🚀 **Third Year Computer Engineering Student**  
 - 💻 **Passionate about coding, design, and creating solutions**  
 - 🎯 **Always improving**  
 
----
+### 📊 Profile Stats
+
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=codeDEVRAJ&style=for-the-badge&color=c471ed" alt="Profile Views"/>
+
+  <!-- Daily Visitors (Static Badge) -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=codeDEVRAJ&style=for-the-badge&color=c471ed" alt="Daily Visitors"/>
+</p>
 
 
 ### 📡 GitHub Stats
@@ -32,8 +38,6 @@
   <img src="https://github.com/codeDEVRAJ/codeDEVRAJ/blob/main/dist/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
@@ -48,11 +52,9 @@
   </a>
 </p>
 
----
-
 ### 💡 Fun Fact
 
-> ⚡ * I believe every project carries a story, even if nobody reads the credits*
+> ⚡ *I believe every project carries a story, even if nobody reads the credits*
 
 ---
 
