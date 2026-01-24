@@ -1,44 +1,173 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ===================================================== -->
+<!-- =================== CHAOS MODE ====================== -->
+<!-- ===================================================== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Devraj%20Honmane&fontSize=52&fontColor=ffffff&color=0:0f2027,50:203a43,100:2c5364" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=DEVRAJ%20HONMANE&fontSize=55&fontColor=ffffff&color=0:ff416c,50:ff4b2b,100:f857a6"/>
 </p>
 
 <p align="center">
-  <i>Designing the web quietly. Letting the work speak.</i>
+  <b>⚠️ This README has NO educational value.</b><br/>
+  Scroll at your own risk.
 </p>
 
 ---
 
-# 🕸️ Overview
+## 🕒 Totally Real Clock (Trust Me Bro)
 
-I work around the **web** — not as a trend, but as a system.  
-Pages, layouts, structure, flow — the parts people feel before they notice.
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="180"/>
+</p>
 
-I don’t chase visibility.  
-I focus on **control, clarity, and intent**.
-
----
-
-## 🌍 How I See the Web
-
-The web isn’t just screens and clicks.
-
-It’s:
-- How fast trust is built  
-- How long attention stays  
-- How simple ideas scale  
-
-A good website doesn’t explain itself.  
-It **guides**.
+> Time is passing.  
+> You are still scrolling.
 
 ---
 
-## 🧩 Web Domains I Engage With
+## 🤡 WHO EVEN AM I?
 
-```text
-▸ Website Development
-▸ UI Structure & Layout Systems
-▸ Responsive Web Design
-▸ Client-side Interactions
-▸ Backend-aware Web Flow
-▸ Performance & Optimization
+- Human ❓
+- Developer ❓
+- Professional button clicker ✅
+- Debugger by luck ✅
+
+I once fixed a bug by:
+> closing the laptop and reopening it
+
+---
+
+## 🧠 CURRENT SYSTEM STATUS
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Brain-Overthinking-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Energy-Depends%20on%20Sleep-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Productivity-Offline-lightgrey?style=for-the-badge"/>
+</p>
+
+---
+
+## 🐒 STICKER WALL (DO NOT ASK WHY)
+
+<p align="center">
+  🤡 🤠 👻 👽 🤖 🐸 🐼 🐵 🐶 🦄 🐲  
+  <br/><br/>
+  🍕 🍔 🍟 🌮 🍩 🍪 🍫 ☕ 🍺
+</p>
+
+---
+
+## 😂 JOKES THAT SHOULD NOT EXIST
+
+> Why don’t programmers go outside?  
+> Because the bugs are inside 🐛
+
+> I tried being productive.  
+> Worst 5 minutes of my life.
+
+> 404: Motivation not found
+
+---
+
+## 📉 FAKE ACHIEVEMENTS UNLOCKED
+
+- 🏆 Survived Monday  
+- 🥇 Fixed bug I created  
+- 🎖 Didn’t Google for 10 minutes  
+- 🏅 Closed VS Code dramatically  
+
+---
+
+## 🧪 USELESS FACTS SECTION
+
+- Bananas are berries 🍌  
+- Your brain named itself 🧠  
+- You blink ~20 times a minute 👀  
+- This README exists for no reason 😌  
+
+---
+
+## 🎪 PRESS THESE (MENTALLY)
+
+🟥 **DO NOT PRESS**  
+🟦 **ALSO DO NOT PRESS**  
+🟩 **WHY ARE YOU PRESSING**  
+
+Nothing happened.  
+Congratulations 🎉
+
+---
+
+## 🌀 RANDOM GIF ZONE (MANDATORY)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l4FGpP4lxGGgK5CBW/giphy.gif" width="160"/>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="160"/>
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="160"/>
+</p>
+
+---
+
+## 🧠 DEEP THOUGHTS (NOT REALLY)
+
+Sometimes you refresh the page.  
+Sometimes the page refreshes you.
+
+Life is just Ctrl + Z that doesn’t work.
+
+---
+
+## 🧻 THINGS THIS README REFUSES TO HAVE
+
+❌ Study tips  
+❌ Roadmaps  
+❌ Hustle culture  
+❌ Motivation quotes  
+❌ Serious personality  
+
+We are tired.
+
+---
+
+## 🎮 MINI GAME (IMAGINARY)
+
+**Objective:**  
+Fix one bug without creating three more.
+
+**Result:**  
+❌ Mission failed  
+Try again tomorrow.
+
+---
+
+## 🧃 IF YOU SCROLLED THIS FAR
+
+Congratulations 🎉  
+You wasted time successfully.
+
+That’s consistency.
+
+---
+
+## 🔗 LINKS (Because GitHub Asked)
+
+<p align="center">
+  <a href="https://github.com/codeDEVRAJ">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+## 🧨 FINAL WARNING
+
+This README:
+- Is too big  
+- Is unnecessary  
+- Exists only for chaos  
+
+If someone opens your profile and gets confused —  
+**MISSION SUCCESSFUL 😈**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:f857a6,50:ff4b2b,100:ff416c"/>
+</p>
