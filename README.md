@@ -1,41 +1,44 @@
-<!-- TOP BANNER -->
+<!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Devraj%20Honmane&fontAlign=50&fontColor=ffffff&fontSize=50&color=0:12c2e9,100:c471ed" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Devraj%20Honmane&fontSize=52&fontColor=ffffff&color=0:0f2027,50:203a43,100:2c5364" />
 </p>
 
 <p align="center">
-  🖤 <b>Welcome to my world… scroll carefully.</b>
-</p>
-
-### 👨‍💻 About Me
-
-- 🚀 **Third Year Computer Engineering Student**  
-- 💻 **Passionate about coding, design, and creating solutions**  
-- 🎯 **Always improving**  
-
-### 📊 Profile Stats
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codeDEVRAJ&style=for-the-badge&color=c471ed" alt="Profile Views"/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=codeDEVRAJ&style=for-the-badge&color=c471ed" alt="Daily Visitors"/>
-</p>
-
-### 📡 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codeDEVRAJ&show_icons=true&theme=radical&hide_border=true&border_radius=20" alt="GitHub Stats"/>
+  <i>Designing the web quietly. Letting the work speak.</i>
 </p>
 
 ---
 
-### 🌐 Connect With Me
+# 🕸️ Overview
 
-<p align="center">
-  <a href="https://github.com/codeDEVRAJ">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/devraj-honmane">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:devrajhonmane@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D
+I work around the **web** — not as a trend, but as a system.  
+Pages, layouts, structure, flow — the parts people feel before they notice.
+
+I don’t chase visibility.  
+I focus on **control, clarity, and intent**.
+
+---
+
+## 🌍 How I See the Web
+
+The web isn’t just screens and clicks.
+
+It’s:
+- How fast trust is built  
+- How long attention stays  
+- How simple ideas scale  
+
+A good website doesn’t explain itself.  
+It **guides**.
+
+---
+
+## 🧩 Web Domains I Engage With
+
+```text
+▸ Website Development
+▸ UI Structure & Layout Systems
+▸ Responsive Web Design
+▸ Client-side Interactions
+▸ Backend-aware Web Flow
+▸ Performance & Optimization
