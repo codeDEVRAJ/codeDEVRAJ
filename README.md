@@ -20,16 +20,17 @@
 </p>
 
 > Time is passing.  
-> You are still scrolling.
+> You are still scrolling.  
+> Productivity is not.
 
 ---
 
 ## 🤡 WHO EVEN AM I?
 
-- Human ❓
-- Developer ❓
-- Professional button clicker ✅
-- Debugger by luck ✅
+- Human ❓  
+- Developer ❓  
+- Professional button clicker ✅  
+- Debugger by luck ✅  
 
 I once fixed a bug by:
 > closing the laptop and reopening it
@@ -112,7 +113,7 @@ Congratulations 🎉
 Sometimes you refresh the page.  
 Sometimes the page refreshes you.
 
-Life is just Ctrl + Z that doesn’t work.
+Life is just **Ctrl + Z** that doesn’t work.
 
 ---
 
@@ -139,35 +140,24 @@ Try again tomorrow.
 
 ---
 
-## 🧃 IF YOU SCROLLED THIS FAR
-
-Congratulations 🎉  
-You wasted time successfully.
-
-That’s consistency.
-
----
-
-## 🔗 LINKS (Because GitHub Asked)
+## 🗿 JAWLINE STATUS: UNDER CONSTRUCTION
 
 <p align="center">
-  <a href="https://github.com/codeDEVRAJ">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-  </a>
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="180"/>
 </p>
 
----
+### 📐 Jawline Facts (100% Certified)
 
-## 🧨 FINAL WARNING
+- Jawline appears only when:
+  - lighting is correct ☀️  
+  - camera angle is respectful 📸  
+  - confidence is above 70% 😤  
 
-This README:
-- Is too big  
-- Is unnecessary  
-- Exists only for chaos  
+- Normal conditions:
+  > Jawline.exe has stopped responding
 
-If someone opens your profile and gets confused —  
-**MISSION SUCCESSFUL 😈**
+### 🧠 Scientific Explanation (Very Real)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:f857a6,50:ff4b2b,100:ff416c"/>
-</p>
+```text
+Face + Gravity + Genetics + Sleep deprivation
+= Mystery Jawline
