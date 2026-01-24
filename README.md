@@ -16,13 +16,9 @@
 ### 📊 Profile Stats
 
 <p align="center">
-  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=codeDEVRAJ&style=for-the-badge&color=c471ed" alt="Profile Views"/>
-
-  <!-- Daily Visitors (Static Badge) -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=codeDEVRAJ&style=for-the-badge&color=c471ed" alt="Daily Visitors"/>
 </p>
-
 
 ### 📡 GitHub Stats
 
@@ -31,12 +27,6 @@
 </p>
 
 ---
-
-### 🐍 Contribution Lifeform
-
-<p align="center">
-  <img src="https://github.com/codeDEVRAJ/codeDEVRAJ/blob/main/dist/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
 
 ### 🌐 Connect With Me
 
@@ -48,17 +38,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:devrajhonmane@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-### 💡 Fun Fact
-
-> ⚡ *I believe every project carries a story, even if nobody reads the credits*
-
----
-
-<!-- FOOTER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:c471ed,100:f64f59" alt="footer"/>
-</p>
+    <img src="https://img.shields.io/badge/Gmail-D
