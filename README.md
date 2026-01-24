@@ -85,7 +85,6 @@ I once fixed a bug by:
 - Bananas are berries 🍌  
 - Your brain named itself 🧠  
 - You blink ~20 times a minute 👀
-- Rohit 45 Hitman🫡 
 - This README exists for no reason 😌  
 
 ---
