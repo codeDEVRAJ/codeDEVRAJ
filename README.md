@@ -19,9 +19,11 @@
   <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="180"/>
 </p>
 
-> Time is passing.  
-> You are still scrolling.  
-> Productivity is not.
+> Life is for enjoy.
+> 
+> after enjoying again enjoy.
+> 
+> just a after enjoying again enjoy.  
 
 ---
 
@@ -65,7 +67,7 @@ I once fixed a bug by:
 > I tried being productive.  
 > Worst 5 minutes of my life.
 
-> 404: Motivation not found
+> 404: Life is f##ked
 
 ---
 
@@ -73,7 +75,7 @@ I once fixed a bug by:
 
 - 🏆 Survived Monday  
 - 🥇 Fixed bug I created  
-- 🎖 Didn’t Google for 10 minutes  
+- 🎖 Didn’t ChatGpt for 10 minutes  
 - 🏅 Closed VS Code dramatically  
 
 ---
@@ -82,7 +84,8 @@ I once fixed a bug by:
 
 - Bananas are berries 🍌  
 - Your brain named itself 🧠  
-- You blink ~20 times a minute 👀  
+- You blink ~20 times a minute 👀
+- Rohit 45 Hitman🫡 
 - This README exists for no reason 😌  
 
 ---
